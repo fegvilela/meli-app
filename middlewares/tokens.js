@@ -1,4 +1,4 @@
-const meli = require('./vendor/index.js').Meli;
+const meli = require('../vendor/index.js').Meli;
 require('dotenv').config();
 
 const { CLIENT_ID, CLIENT_SECRET, REDIRECT_URI } = process.env;
