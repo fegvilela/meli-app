@@ -9,10 +9,10 @@
 
 var config = {
 
-	api_root_url: 'https://api.mercadolibre.com',
+	api_root_url: 'https://api.mercadolivre.com',
 	skd_version: '0.0.13',
-	auth_url: 'https://auth.mercadolibre.com/authorization',
-	oauth_url: 'https://api.mercadolibre.com/oauth/token'
+	auth_url: 'https://auth.mercadolivre.com/authorization',
+	oauth_url: 'https://api.mercadolivre.com/oauth/token'
 
 };
 
